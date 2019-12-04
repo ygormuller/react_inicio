@@ -17,6 +17,23 @@ module.exports = {
         use: {
           loader: 'babel-loader'
         }
+
+        //yarn add style-loader css-loader -D//
+
+      }, {
+        test: /\.css$/,
+        use: [
+          { loader: 'style-loader'},
+          { loader: 'css-loader'},
+        ]
+
+        //yarn add fiel-loader -D//
+        
+      }, {
+        test: /.*\.(gif|png|jpe?g)$/1,
+        use: {
+          loader: 'file-loader'
+        }
       }
     ]
   }
