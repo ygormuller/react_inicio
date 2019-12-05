@@ -27,10 +27,10 @@ module.exports = {
           { loader: 'css-loader'},
         ]
 
-        //yarn add fiel-loader -D//
+        //yarn add filey-loader -D//
         
       }, {
-        test: /.*\.(gif|png|jpe?g)$/1,
+        test: /.*\.(gif|png|jpe?g)$/i,
         use: {
           loader: 'file-loader'
         }
