@@ -1,5 +1,8 @@
 # rocketseat4
 
+<p align="center">
+  <a title="react authors / Public domain" href="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"><img width="175" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+  
 Estudo sobre, componentização, propriedades, estado, ciclo de vida e debug, utilizando o React
 
 *Necessário instalar
