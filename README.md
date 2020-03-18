@@ -1,6 +1,6 @@
 # rocketseat4
 
-Projeto utilizando o React
+Estudo sobre, componentização, propriedades, estado, ciclo de vida e debug, utilizando o React
 
 *Necessário instalar
 
