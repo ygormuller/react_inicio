@@ -1,4 +1,4 @@
-# rocketseat4
+# Iniciando com React
 
 <p align="center">
   <a title="react authors / Public domain" href="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"><img width="175" alt="Node.js logo" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
